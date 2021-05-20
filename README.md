@@ -1,5 +1,5 @@
 # Job opening & Company review Crawling_project
-- 손주현, 이진주
+
 - [Jobplanet](https://www.jobplanet.co.kr/)
 - [Wanted](https://www.wanted.com.kr/)
 
